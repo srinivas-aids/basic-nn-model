@@ -10,7 +10,7 @@ First we can take the dataset based on one input value and some mathematical cal
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![6](https://user-images.githubusercontent.com/93427183/187445695-2dcd3c81-a1a6-413d-af10-261940af8697.png)
 
 ## DESIGN STEPS
 
